@@ -1,6 +1,6 @@
 package oop;
 
-public interface InterfaceSummary {
+public /*abstract*/ interface InterfaceSummary {
     /*public static final*/ int CONSTANT = 1;
 
     /*public abstract*/ int abstractMethod();
